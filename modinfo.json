@@ -1,0 +1,19 @@
+{
+  "author": "KillerKiwiJuice, SirFrankfoot",
+  "build": "Current", 
+  "category": [
+    "server-mod", 
+    "in-game",
+    "units"
+  ], 
+  "context": "server", 
+  "date": "2015/12/31", 
+  "description": "Bombers target AA first", 
+  "display_name": "Bomber Priority", 
+  "enabled": true, 
+  "forum": "", 
+  "icon": "", 
+  "identifier": "com.pa.kiwi.bomber_priority", 
+  "signature": "not yet implemented", 
+  "version": "1"
+}
