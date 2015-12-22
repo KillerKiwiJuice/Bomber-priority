@@ -8,7 +8,7 @@
   ], 
   "context": "server", 
   "date": "2015/12/31", 
-  "description": "Bombers target AA first", 
+  "description": "Bombers target AA first when they're in-range", 
   "display_name": "Bomber Priority", 
   "enabled": true, 
   "forum": "", 
